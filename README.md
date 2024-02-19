@@ -1,0 +1,1 @@
+A Look into the Suspicious Face" is a Python-based project utilizing computer vision and facial recognition technologies to create a surveillance system. The application uses the OpenCV and face_recognition libraries to capture real-time video from a webcam, detect faces in the video stream, and compare them against a database of known faces. 
